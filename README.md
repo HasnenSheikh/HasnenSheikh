@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HasnenSheikh
-- 👀 I’m interested in Programmer
-- 🌱 I’m currently learning Diploma Computer Science
-- 💞️ I’m looking to collaborate on Data Analytics
+- 👀 I’m interested in Programming
+- 🌱 I’m currently pursuing Diploma in Computer Science
+- 💞️ I’m looking to collaborate on Data Analytics/Science Projects
 - 📫 Contact me: mhasnen903@gmail.com
 
 <!---
