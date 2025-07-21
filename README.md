@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HasnenSheikh
-- 👀 I’m interested in Python Programming, SQL, ML, Data Science Related Projects
+- 👀 I’m interested in Python, SQL, ML, Data Science & AI Related Projects
 - 🌴 I have completed my Diploma in Computer Science
 - 🌱 I’m currently pursuing BS in Data Science
-- 💞️ I’m looking people to participate in Hackaton
+- 💞️ I’m looking people to participate in Projects & Hackaton
 - 📫 Contact me: mhasnen903@gmail.com
 
 <!---
